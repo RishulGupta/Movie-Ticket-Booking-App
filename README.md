@@ -1,6 +1,17 @@
 ## 🎬 Movie Ticket Booking App
 
 Welcome to the Movie Ticket Booking App — a sleek and simple Android app built using Kotlin and XML that lets users browse and book movie tickets with ease! 🍿🎟️
+<div align="center">
+   <img src="https://github.com/RishulGupta/Movie-Ticket-Booking-App/blob/74ea66227fe83ce55a388df305f37355d7398571/WhatsApp%20Image%202025-08-02%20at%2017.43.33_b032c29b.jpg" width=200>
+<img src="https://github.com/RishulGupta/Movie-Ticket-Booking-App/blob/74ea66227fe83ce55a388df305f37355d7398571/WhatsApp%20Image%202025-08-02%20at%2017.43.33_53478ef2.jpg" width=200>
+
+
+
+<img src="https://github.com/RishulGupta/Movie-Ticket-Booking-App/blob/74ea66227fe83ce55a388df305f37355d7398571/WhatsApp%20Image%202025-08-02%20at%2017.43.34_55507458.jpg" width=200>
+
+<img src="https://github.com/RishulGupta/Movie-Ticket-Booking-App/blob/74ea66227fe83ce55a388df305f37355d7398571/WhatsApp%20Image%202025-08-02%20at%2017.43.34_c4480a55.jpg" width=200>
+</div>
+
 
 ------------------------------------------------------------
 ## 🚀 Features
