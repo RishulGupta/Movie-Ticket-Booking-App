@@ -38,7 +38,7 @@ Welcome to the Movie Ticket Booking App — a sleek and simple Android app built
    git clone https://github.com/RishulGupta/Movie-Ticket-Booking-App.git
 3. Open the project in Android Studio
 4. Let Gradle sync
-5. Click on Run ▶️ to launch the app
+5. Click on Run ▶️ to launch the app.
 
 ------------------------------------------------------------
 
